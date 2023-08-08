@@ -1,0 +1,52 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Doro wot",
+      "by": "Cheif John",
+      "time": 80,
+      "ingredients": [
+        "1 whole chicken",
+        "2 large onions",
+        "4 cloves of garlic",
+        "minced 1 tablespoon ginger",
+        "1/4 cup niter kibbeh",
+        "2 tablespoons berbere"
+      ],
+      "img": "https://raw.githubusercontent.com/iamshaunjp/tailwind-tutorial/lesson-19/public/img/curry.jpg",
+      "description": "Marinate chicken pieces with half of onions, garlic, ginger, paprika, cumin, coriander, cardamom, and salt. Melt niter kibbeh, sauté remaining onions, garlic, ginger; add berbere spice, then brown marinated chicken. Pour chicken broth/water, simmer covered for 45 mins - 1 hour. Adjust seasoning, add hard-boiled eggs if desired. Serve with injera or rice."
+    },
+    {
+      "id": 2,
+      "name": "Tibs firfir",
+      "by": "Sara",
+      "time": 25,
+      "ingredients": [
+        "1 whole chicken",
+        "2 large onions",
+        "4 cloves of garlic",
+        "minced 1 tablespoon ginger",
+        "1/4 cup niter kibbeh",
+        "2 tablespoons berbere"
+      ],
+      "img": "https://raw.githubusercontent.com/iamshaunjp/tailwind-tutorial/lesson-19/public/img/noodles.jpg",
+      "description": "Marinate chicken pieces with half of onions, garlic, ginger, paprika, cumin, coriander, cardamom, and salt. Melt niter kibbeh, sauté remaining onions, garlic, ginger; add berbere spice, then brown marinated chicken. Pour chicken broth/water, simmer covered for 45 mins - 1 hour. Adjust seasoning, add hard-boiled eggs if desired. Serve with injera or rice."
+    },
+    {
+      "id": 3,
+      "name": "Shero",
+      "by": "Saron",
+      "time": 30,
+      "ingredients": [
+        "1 whole chicken",
+        "2 large onions",
+        "4 cloves of garlic",
+        "minced 1 tablespoon ginger",
+        "1/4 cup niter kibbeh",
+        "2 tablespoons berbere"
+      ],
+      "img": "https://raw.githubusercontent.com/iamshaunjp/tailwind-tutorial/lesson-19/public/img/stew.jpg",
+      "description": "Marinate chicken pieces with half of onions, garlic, ginger, paprika, cumin, coriander, cardamom, and salt. Melt niter kibbeh, sauté remaining onions, garlic, ginger; add berbere spice, then brown marinated chicken. Pour chicken broth/water, simmer covered for 45 mins - 1 hour. Adjust seasoning, add hard-boiled eggs if desired. Serve with injera or rice."
+    }
+  ]
+}
